@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+unidecode
+aiogram
+steam
+steampy
+discord_webhook
