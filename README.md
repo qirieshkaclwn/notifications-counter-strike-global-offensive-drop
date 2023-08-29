@@ -23,3 +23,5 @@ tg and discord notifications about the counter strike global offensive drop
 в формате логин:пароль и закинуть маффайлы из sda в папку maFiles
 обратите внимание что при запуске ваши маффайлы преименуються как логин аккаунта.maFile
 всё вы готовы к запуску
+
+кто хочет поддержать вот трейд ссылка: https://steamcommunity.com/tradeoffer/new/?partner=1041049308&token=Fpz38qEC
