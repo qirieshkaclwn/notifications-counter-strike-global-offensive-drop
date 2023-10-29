@@ -1,4 +1,8 @@
 # notifications-counter-strike-global-offensive-drop
+
+программа не даработана рабочий билд утерен
+
+
 tg and discord notifications about the counter strike global offensive drop
 для того чтобы устоновить вы должны устоновить python и запустить install.py
 после установки всех библеотек нажмите enter чтоб закрыть.
